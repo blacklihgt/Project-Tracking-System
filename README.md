@@ -4,12 +4,12 @@
 
 ## Table of contents
 
-1.Introduction
-2.Roles of different users
-3.Building the business component
-4.Building admin GUI
-5.Using .NET remoting
-6.Creating a web service and client website
+    1.Introduction
+    2.Roles of different users
+    3.Building the business component
+    4.Building admin GUI
+    5.Using .NET remoting
+    6.Creating a web service and client website
 
 ### Introduction
 
@@ -74,3 +74,5 @@ Out of Bounds Limited is a London based company which specialises in the managem
 ### Building the admin GUI
 
 ### Introducing .NET remoting
+
+### Creating a web service and client website

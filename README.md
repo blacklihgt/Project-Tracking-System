@@ -17,17 +17,14 @@ Out of Bounds Limited is a London based company which specialises in the managem
 
 - Some of the functions of the system will be:
 
-  -The system will allow the a manager to register projects.
-  -Projects are divided into tasks.
-  -Rules regarding the order of the tasks can be set.
-  -Different tasks can be assigned to different teams.
-  -Team leaders will be able to register task progress.
-  -Customer can view summary information about structure of the project.
+  The system will allow the a manager to register projects.
+  Projects are divided into tasks.
+  Rules regarding the order of the tasks can be set.
+  Different tasks can be assigned to different teams.
+  Team leaders will be able to register task progress.
+  Customer can view summary information about structure of the project.
 
-- System will be accessed by three different type of users.
-    -ADministrator
-    -Team Leader(s)
-    -Customers
+- System will be accessed by three different type of users. i.e Administrator, team leader(s), customers
 
 ### Roles of different users
 

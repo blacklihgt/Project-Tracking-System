@@ -58,9 +58,18 @@ Out of Bounds Limited is a London based company which specialises in the managem
 
 - Contains the core functionality of business rules, workflows, provides controlled access to data and also enables validation and processing data input.
 - Will contain components in the form of different classes which are:
-  *Business objects - Abstract representation from our business domain.
-  *Data access objects - Will be used to communicate to database
-  *Facade objects - Will be used to interact with GUI
+  - Business objects - Abstract representation from our business domain.
+  - Data access objects - Will be used to communicate to database
+  - Facade objects - Will be used to interact with GUI
+
+
+#### Data tier
+
+- Will be represented by a database
+
+#### Presentation tier
+
+- Will be represented by a graphical user interface.
 
 ### Building the admin GUI
 
